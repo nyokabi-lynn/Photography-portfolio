@@ -1,5 +1,9 @@
-Program name:Photography Portfolio
-Description:This program entails the basic layout of a website showcasing the different sections with information about the author.
+Program name:
+Photography Portfolio
+
+Description:
+This program entails the basic layout of a website showcasing the different sections with information about the author.
+
 By:Lynn Nyokabi Oyoti
 
 This is an application that can be used to showcase different personas in-depth and for other developers to get to know about the author more.The simple layout is to give an easy-to-underdtang guide on getting to know about the developer.Therefor making it easy to interact ,boosting communication.
