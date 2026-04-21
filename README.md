@@ -10,7 +10,7 @@ This is an application that can be used to showcase different personas in-depth 
 Set-up Requirments:
   A programming Environment:Vscode,Ubuntu
   Operators:GitHub
-  Datatypes:HTML and CSS
+  Syntax used:HTML and CSS
 
 The application can be opened though the about page in Github or with just the link.
 
