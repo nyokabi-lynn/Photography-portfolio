@@ -22,18 +22,6 @@ header a {
 }
 
 
-h1 {
-  text-align: center;
-  margin-top: 20px;
-  color: #333;
-}
-
-h2 {
-  display: flex;
-  color:#444;
-  margin-top: 20px;
-  text-align: center;
-}
 
 nav {
   background-color: #141516;
